@@ -1,4 +1,4 @@
-# AVAX-ADV_1\
+# AVAX-ADV_1
 In this project I've created a DeFi Empire for DeFi Kingdoms using EVM Subnet on Avalanche network
 
 
